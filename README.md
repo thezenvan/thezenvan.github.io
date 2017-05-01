@@ -5,5 +5,6 @@ The Online Home Of The Zen Van
 
 2do
 ===
+* Chnage favicon
 * Change top image on homepage
 * Contact Form https://www.formingo.co/guides/jekyll
