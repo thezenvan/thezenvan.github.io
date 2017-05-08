@@ -5,6 +5,7 @@ The Online Home Of The Zen Van
 
 2do
 ===
+* update logo
 * change favicon
 * change top image on homepage
 * add sitemap
