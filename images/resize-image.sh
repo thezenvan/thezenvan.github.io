@@ -13,8 +13,8 @@ do
 	echo $i
 	# resize images
 	if [[ "$OSTYPE" == "linux-gnu" ]]; then
-		convert -strip -quality 85% -resize 1280 $i $i
+		convert -strip -quality 40% -resize 1024 $i $i
 	else
-        	sips --setProperty formatOptions normal --resampleWidth 1280 $i
+        	sips --setProperty formatOptions 40 --resampleWidth 1024 $i
 	fi
 done
